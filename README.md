@@ -24,4 +24,4 @@ The datasets used here are already rectified.
 - SAD (Sum of Absolute Differences): The SAD is the sum of the absolute differences between the corresponding pixels in the two images.
 
 #### Result Example
-![image](https://user-images.githubusercontent.com/83327791/216760555-457855d8-5d3d-45e2-bed7-793bd6c24ed9.png)
+![image](https://user-images.githubusercontent.com/83327791/216760919-b167ffbc-5942-4c83-afa5-8f6cb9ab8599.png)
