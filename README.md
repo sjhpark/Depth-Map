@@ -1,10 +1,12 @@
 # Depth-Map
 Depth map (disparity map) of stereo vision images
 
-### Dataset
-Dataset from Middlebury: http://vision.middlebury.edu/stereo/data/
+![left_images_compressed](https://user-images.githubusercontent.com/83327791/216810695-f6107eef-dbdd-4948-bf83-0a7224d810fe.gif)
+![depth_maps](https://user-images.githubusercontent.com/83327791/216809049-2ad7d0da-6a2a-4e4c-8ccc-f56f23034872.gif)
+---
 
-Dataset from Kitti: https://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stereo
+### Dataset
+Dataset from Kitti Stereo 2015: https://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo
 
 The datasets used here are already rectified.
 
@@ -24,4 +26,4 @@ The datasets used here are already rectified.
 - SAD (Sum of Absolute Differences): The SAD is the sum of the absolute differences between the corresponding pixels in the two images.
 
 #### Result Example
-![image](https://user-images.githubusercontent.com/83327791/216760555-457855d8-5d3d-45e2-bed7-793bd6c24ed9.png)
+![image](https://user-images.githubusercontent.com/83327791/216760919-b167ffbc-5942-4c83-afa5-8f6cb9ab8599.png)
