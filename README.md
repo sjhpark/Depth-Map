@@ -1,6 +1,7 @@
 # Depth-Map
 Depth map (disparity map) of stereo vision images
 
+![left_images_compressed](https://user-images.githubusercontent.com/83327791/216810695-f6107eef-dbdd-4948-bf83-0a7224d810fe.gif)
 ![depth_maps](https://user-images.githubusercontent.com/83327791/216809049-2ad7d0da-6a2a-4e4c-8ccc-f56f23034872.gif)
 ---
 
