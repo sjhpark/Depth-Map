@@ -1,6 +1,9 @@
 # Depth-Map
 Depth map (disparity map) of stereo vision images
 
+![depth_maps](https://user-images.githubusercontent.com/83327791/216809049-2ad7d0da-6a2a-4e4c-8ccc-f56f23034872.gif)
+---
+
 ### Dataset
 Dataset from Kitti Stereo 2015: https://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo
 
@@ -23,4 +26,3 @@ The datasets used here are already rectified.
 
 #### Result Example
 ![image](https://user-images.githubusercontent.com/83327791/216760919-b167ffbc-5942-4c83-afa5-8f6cb9ab8599.png)
-![depth_maps](https://user-images.githubusercontent.com/83327791/216809049-2ad7d0da-6a2a-4e4c-8ccc-f56f23034872.gif)
