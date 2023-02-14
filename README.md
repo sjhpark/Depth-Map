@@ -6,7 +6,7 @@ Depth map (disparity map) of stereo vision images
 ---
 
 ### Dataset
-Dataset from Kitti Stereo 2015: https://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo
+Dataset from KITTI Stereo 2015: https://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo
 
 The datasets used here are already rectified.
 
