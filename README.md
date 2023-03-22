@@ -21,7 +21,7 @@ The datasets used here are already rectified.
 - Disparity map makes the pixels brighter if there is more disparity. --> In other words, brighter pixels for closer objects. --> Disparity map captures the objects' relative positions.
 
 #### Algorithm Steps
-- Image Rectification: Usually, you first simplify the problem by rectifying the stereo images. After rectification, the corresponding points will lie on the same horizontal line. --> Reduces the 2D stere0 correspondence problem to a 1D problem --> There will be disparity along only one axis (x-axis in this case).
+- Image Rectification: Usually, you first simplify the problem by rectifying the stereo images. After rectification, the corresponding points will lie on the same horizontal line. --> Reduces the 2D stereo correspondence problem to a 1D problem --> There will be disparity along only one axis (x-axis in this case).
 - Block (Window; Kernel) Matching
 - SAD (Sum of Absolute Differences): The SAD is the sum of the absolute differences between the corresponding pixels in the two images.
 
